@@ -1,0 +1,137 @@
+{
+  "top_20_holders": [
+    {
+      "rank": 1,
+      "address": "0xed71aa0da4fdba512ffa398fcff9db8c49a5cf72",
+      "balance_usd": 53484905.81,
+      "pct_supply": 30.407058375627127
+    },
+    {
+      "rank": 2,
+      "address": "0x713742701e5aec2e31c272705d85aa8c3a51a258",
+      "balance_usd": 25161213.82,
+      "pct_supply": 14.304568472911667
+    },
+    {
+      "rank": 3,
+      "address": "0xe827abf9f462ac4f147753d86bc5f91e186e4e9c",
+      "balance_usd": 15436284.86,
+      "pct_supply": 8.775784639281751
+    },
+    {
+      "rank": 4,
+      "address": "0xb48cfe40ab635f6875b570d391dff805cf3acc32",
+      "balance_usd": 12000000.0,
+      "pct_supply": 6.822199552968149
+    },
+    {
+      "rank": 5,
+      "address": "0x12c0de58d3b720024324d5b216ddfe8b29adb0b4",
+      "balance_usd": 9133099.38,
+      "pct_supply": 5.192318875620806
+    },
+    {
+      "rank": 6,
+      "address": "0xf19a4fcc98c96a063ab06f3f5781e34a845a49e8",
+      "balance_usd": 8737328.87,
+      "pct_supply": 4.967316759254142
+    },
+    {
+      "rank": 7,
+      "address": "0xe6a8cc634da37d85b5f048bfd65d1e5eff6613b8",
+      "balance_usd": 5692121.81,
+      "pct_supply": 3.2360659056351873
+    },
+    {
+      "rank": 8,
+      "address": "0xc0d9ed97ccdfca762b1bbeb40c9c7679a7290e43",
+      "balance_usd": 5371070.14,
+      "pct_supply": 3.0535426923390476
+    },
+    {
+      "rank": 9,
+      "address": "0x568430c66f9a256f609ac07190d70c2c2573e065",
+      "balance_usd": 5367469.28,
+      "pct_supply": 3.0514955435488558
+    },
+    {
+      "rank": 10,
+      "address": "0xe3b11b7a5845727406935e0951ba77901dc4a48b",
+      "balance_usd": 5229863.35,
+      "pct_supply": 2.9732642840378753
+    },
+    {
+      "rank": 11,
+      "address": "0xf76d5dfba4544eb96e8d60d3cf817a34df019e8e",
+      "balance_usd": 5130091.74,
+      "pct_supply": 2.9165424646094658
+    },
+    {
+      "rank": 12,
+      "address": "0x8b5f3a121f1a90d0009ece69e4a680f77374227b",
+      "balance_usd": 5013264.96,
+      "pct_supply": 2.8501244974185735
+    },
+    {
+      "rank": 13,
+      "address": "0x9283c5125f4a0886b9e63e0b0fe7037382215800",
+      "balance_usd": 4785542.38,
+      "pct_supply": 2.7206604237955108
+    },
+    {
+      "rank": 14,
+      "address": "0x225c19beb8f6ad683b1d3a091dca0fcfc603ecde",
+      "balance_usd": 4692115.656325,
+      "pct_supply": 2.6675457777546057
+    },
+    {
+      "rank": 15,
+      "address": "0x71b39fdc5369db226d00abe703c56f405c1901c9",
+      "balance_usd": 3635061.51,
+      "pct_supply": 2.06659291737781
+    },
+    {
+      "rank": 16,
+      "address": "0x7c97bac74c384b21f24de9e59d1bce4ffad8f2b6",
+      "balance_usd": 1500100.0,
+      "pct_supply": 0.85283179578396
+    },
+    {
+      "rank": 17,
+      "address": "0x1e695a689cf29c8fe0af6848a957e3f84b61fe69",
+      "balance_usd": 1053766.61,
+      "pct_supply": 0.5990838413062302
+    },
+    {
+      "rank": 18,
+      "address": "0x866c9a77d8ab71d2874703e80cb7ad809b301e8e",
+      "balance_usd": 1000000.0,
+      "pct_supply": 0.5685166294140124
+    },
+    {
+      "rank": 19,
+      "address": "0x77021d475e36b3ab1921a0e3a8380f069d3263de",
+      "balance_usd": 874837.4501,
+      "pct_supply": 0.4973596384160012
+    },
+    {
+      "rank": 20,
+      "address": "0x9c2541356b947e2605c8551f00141a623a22c003",
+      "balance_usd": 511396.294079,
+      "pct_supply": 0.29073729740461013
+    }
+  ],
+  "concentration": {
+    "top_5_pct": 65.5019299164095,
+    "top_10_pct": 82.78361510122461,
+    "top_20_pct": 98.8136103845054
+  },
+  "size_distribution": {
+    "Whales (>$10M)": 47,
+    "Large ($1M-$10M)": 6,
+    "Medium ($100K-$1M)": 1,
+    "Small (<$100K)": 3
+  },
+  "total_holders": 57,
+  "total_supply_usd": 175896349.950349
+}
